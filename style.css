@@ -64,8 +64,11 @@
 }
 
 .menu .botao{
-  width: 50%;
+  width: 40%;
+  margin: 30px 10px 10px 10px;
+  padding: 6px 15px;
   float: left;
+  background: #083999;
 }
 
 .menu .botao a {
